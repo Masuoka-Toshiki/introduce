@@ -32,6 +32,7 @@
 | Kotlin | 1 |
 | TypeScript | 1 |
 | docker | 1 |
+| Go | 2 |
 | React | 2 |
 | Node.js | 2 |
 | C# | 3 |
